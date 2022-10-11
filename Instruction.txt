@@ -1,0 +1,17 @@
+1. A total of two point clouds were shared：cube (modified after Riquelme) and Case B.
+
+2. The view of cube and Case B are (290,30) and (45,30), respectively.
+
+3.The k of cube and Case B are 50 and 60, respectively.
+
+4. The log also provide a simple indication of the procedure for the APP.
+
+5. The detailed process can refer to the paper.
+
+6. If you have additional questions, please contact chen_qian@cug.edu.cn or geyunfeng@cug.edu.cn.
+
+7. The DIUNA.mlappinstall is a Plugin of MATLAB，and you can double-click to install it in MATLAB .
+
+8. The DIUNA.exe and MyAppInstaller_mcr.exe are standalone APPs but require a MATLAB runtime. If you
+    have MATLAB installed, you can run DIUNA.exe directly; if not, run MyAppInstaller_mcr.exe to download
+    the relevant resources 
