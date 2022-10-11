@@ -1,4 +1,4 @@
-1. A total of two point clouds were shared：cube (modified after Riquelme) and Case B.
+1. A total of two point clouds are shared：cube (modified after Riquelme) and Case B.
 
 2. The view of cube and Case B are (290,30) and (45,30), respectively.
 
