@@ -12,8 +12,4 @@
 
 7. The DIUNA.mlappinstall is a Plugin of MATLAB，and you can double-click to install it in MATLAB .
 
-8. The DIUNA.exe and MyAppInstaller_mcr.exe are standalone APPs but require a MATLAB runtime. If you
-    have MATLAB installed, you can run DIUNA.exe directly; if not, run MyAppInstaller_mcr.exe to download
-    the relevant resources 
-    
-9. MyAppInstaller_mcr.exe and Case B (> 25 M) are shared on releases.
+8. The DIUNA.exe is standalone APPs but require a MATLAB runtime. 
