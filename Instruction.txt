@@ -2,7 +2,7 @@
 
 2. The view of cube, Case A and Case B are (290,30), (45,10), and (45,30), respectively.
 
-3. The k of cube, Case A and Case B are 50, 50, and 60, respectively.
+3. The k of cube, Case A and Case B are 50, 60, and 60, respectively.
 
 4. The log also provide a simple indication of the procedure for the APP.
 
