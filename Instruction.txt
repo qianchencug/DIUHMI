@@ -1,6 +1,6 @@
 1. A total of two point clouds are shared：cube (modified after Riquelme) and Case B.
 
-2. The view of cube and Case B are (290,30) and (45,30), respectively.
+2. The view of cube, Case A and Case B are (290,30), (45,10), and (45,30), respectively.
 
 3.The k of cube and Case B are 50 and 60, respectively.
 
