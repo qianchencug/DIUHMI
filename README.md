@@ -12,4 +12,6 @@ The view of point clouds of cube, Case A and Case B are (290,30), (45,10), and (
 
 The k of cube, Case A and Case B are 50, 60, and 60, respectively.
 
+If you have additional questions, please contact chen_qian@cug.edu.cn or geyunfeng@cug.edu.cn.
+
 Note: The MATLAB version we use is R2022b.
