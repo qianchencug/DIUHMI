@@ -1,6 +1,6 @@
 new method for discontinuity identification
 
-Double click DIUNA.mlappinstall to install the DIUMMS app on MATLAB
+Double click DIUHMI.mlappinstall to install the DIUHMI app on MATLAB
 
 Then you can find the DIUMMS app at APP-My App on your MATLAB
 
