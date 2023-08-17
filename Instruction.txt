@@ -1,4 +1,4 @@
-1. A total of two point clouds are shared：cube (modified after Riquelme) and Case B.
+1. A total of two point clouds are shared：cube(49501m) and Case B.
 
 2. The view of cube, Case A and Case B are (290,30), (45,10), and (45,30), respectively.
 
@@ -10,6 +10,6 @@
 
 6. If you have additional questions, please contact chen_qian@cug.edu.cn or geyunfeng@cug.edu.cn.
 
-7. The DIUNA.mlappinstall is a Plugin of MATLAB，and you can double-click to install it in MATLAB .
+7. The DIUHMI.mlappinstall is a Plugin of MATLAB，and you can double-click to install it in MATLAB .
 
-8. The DIUNA.exe is standalone APPs but require a MATLAB runtime. 
+8. The DIUHMI.exe is standalone APPs but require a MATLAB runtime. 
