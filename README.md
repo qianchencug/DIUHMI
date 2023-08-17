@@ -4,6 +4,8 @@ Double click DIUHMI.mlappinstall to install the DIUHMI app on MATLAB.
 
 Then you can find the DIUHMI app at APP-My App on your MATLAB.
 
+If you don't have MATLAB in you computer, you can install the HMI APP by double click HMIAppInstaller_web.exe.
+
 The cube(49501m).pcd and Qinghai.rar are the point clouds used in the paper.
 
 The sensor of point clouds of cube, Case A and Case B are (-0.2,0.1,-1.5), (10,1.1,2), and (0,-100,100), respectively.
