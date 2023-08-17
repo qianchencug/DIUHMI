@@ -1,8 +1,8 @@
-DIUNA Executable
+DIUHMI Executable
 
 1. Prerequisites for Deployment 
 
-Verify that version 9.9 (R2020b) of the MATLAB Runtime is installed.   
+Verify that version R2020b of the MATLAB Runtime is installed.   
 If not, you can run the MATLAB Runtime installer.
 To find its location, enter
   
@@ -11,7 +11,7 @@ To find its location, enter
 at the MATLAB prompt.
 NOTE: You will need administrator rights to run the MATLAB Runtime installer. 
 
-Alternatively, download and install the Windows version of the MATLAB Runtime for R2020b 
+Alternatively, download and install the Windows version of the MATLAB Runtime for R2022b 
 from the following link on the MathWorks website:
 
     https://www.mathworks.com/products/compiler/mcr/index.html
@@ -24,7 +24,7 @@ in the MathWorks Documentation Center.
 
 Files to Package for Standalone 
 ================================
--DIUNA.exe
+-DIUHMI.exe
 -MCRInstaller.exe 
     Note: if end users are unable to download the MATLAB Runtime using the
     instructions in the previous section, include it when building your 
